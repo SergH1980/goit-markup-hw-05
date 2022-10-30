@@ -579,7 +579,6 @@ img {
   line-height: 1.62;
   text-align: center;
   transition: background-color var(--primary-transition),
-    background-color var(--primary-transition),
     box-shadow var(--primary-transition);
 }
 
